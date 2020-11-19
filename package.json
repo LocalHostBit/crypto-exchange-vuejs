@@ -12,6 +12,7 @@
     "@saeris/vue-spinners": "^1.0.8",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
+    "heroku": "^0.2.0",
     "numeral": "^2.0.6",
     "tailwindcss": "^1.1.2",
     "vue": "^2.6.11",
